@@ -2,7 +2,7 @@
 
 Are you in need of a quick dose of inspiration or a moment of reflection? Look no further than QuoteColony it generates random quotes! With just a click of a button, users can discover thought-provoking and inspiring quotes. Get ready to be inspired and motivated with our web app - give it a try today!
 
-📍 Checkout demo Live : - **[QuoteColony Demo](https://cosmic-centaur-d491f7.netlify.app)**
+📍 Checkout demo Live : - **[QuoteColony Demo](https://quote-colony.netlify.app)**
 
 
 ## 💡 Concepts Used :- 
